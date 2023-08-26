@@ -1,10 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
@@ -31,12 +24,12 @@
   );
   --bg-gradient-yellow-2: linear-gradient(
     135deg, 
-    hsla(45, 100%, 71%, 0.251) 0%, 
+    #4E2630, 
     hsla(35, 100%, 68%, 0) 59.86%
   ), hsl(240, 2%, 13%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(0, 0%, 25%) 0%, 
+    #4E2630, 
     hsla(0, 0%, 25%, 0) 50%
   );
   --text-gradient-yellow: linear-gradient(
