@@ -1778,3 +1778,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 	height: 1px;
 	background-image: linear-gradient(to right, transparent, #373737, transparent);
 }
+.keyboard-icon {
+    display: block;
+}
